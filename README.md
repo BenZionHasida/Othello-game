@@ -23,4 +23,4 @@ No additional installation is required if Python 3.x is already installed.
 Run the script using Python:
 
 ```bash
-python othello_tkinter.py
+python reversi_product.py
