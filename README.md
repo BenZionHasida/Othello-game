@@ -25,6 +25,13 @@ Run the script using Python:
 ```bash
 python reversi_product.py
 ```
+### Using the Executable File
+
+Alternatively, you can use the standalone executable file:
+
+1. Download the `OthelloGame.exe` file from the repository.
+2. Double-click on the downloaded file to run the game.
+
 ## Game Rules
 
 - Each turn, you must place a disk on the board with your assigned color facing up.
